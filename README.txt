@@ -5,3 +5,5 @@ ca sa trimitem mesaj in consola se introduce adresaunde dorim sa trimitem mesaju
 Acestea sunt delimitate prin spatiu.
 Pentru a inchia conversatia cu cinva scriem "*adresa* exit"
 Ca sa inchidem aplicatie scriem comanda "exit"
+
+adresa de pe github : "https://github.com/elPresedinte/java_udp.git"
