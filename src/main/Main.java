@@ -28,7 +28,7 @@ public class Main {
 			String[] messages=text.split(" ");
 			String address=new String(messages[0]);
 			text=text.replace(address+" ", "");
-			if(address.contains(".255"))
+			if(address.contains(".255") && !text.equals("exit"))
 			{
 				text="broadcast "+text;
 			}
