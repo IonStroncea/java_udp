@@ -1,7 +1,9 @@
-programul se porneste ca oricare program in Java. Ori direct in mediul de dezvoltare, 
-ori din consola, utilizaind comanda "javac *" si apoi "java Main.Main"
+This is a simple chat made using UDP protocol. Application is made in Java.
 
-ca sa trimitem mesaj in consola se introduce adresa unde dorim sa trimitem mesajul si apoi insasi mesajul. 
-Acestea sunt delimitate prin spatiu.
-Pentru a incheia conversatia cu cinva scriem "*adresa* exit"
-Ca sa inchidem aplicatie scriem comanda "exit"
+The program starts like any Java program. Either directly in the development environment,
+or from the console, using the command "javac *" and then "java Main.Main"
+
+To send a message in the console, enter the address where we want to send the message and then the message itself.
+They are delimited by space.
+To end the conversation with someone, write "*address* exit"
+To close the application, write the command "exit"
